@@ -4,5 +4,4 @@ are you allright
 lets see
 oops lets go on 
 lets push it again 
-lets do it agian 
-alirght do it again 
+lets retry again 
